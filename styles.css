@@ -1,0 +1,38 @@
+.Header{
+    border: 1px solid black; 
+    color:black;
+    margin-left:auto;
+    width:70%;
+    margin-right:auto;
+    height:70%;
+    border:8px solid pink;}
+
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2W7kVbeoNJ9f4yPaM-gRXKA0LFopD4bN_g&usqp=CAU");
+}
+.Uggs{
+    background-color:white;
+    color:black;
+    border:10px solid pink;
+   padding:10px;
+    margin-right:auto;
+font-style:oblique;
+}
+.Apple{
+color:white;
+background-color:black;
+border:10px solid red;
+padding:10px;
+font-style:oblique;}
+.crocs{color:yellow;
+background-color:black;
+border:10px solid blue;
+font-style:oblique;
+}
+.nike{
+color:black;
+background-color:white;
+border:10px red;
+padding:10px;
+font-style:oblique;
+}
